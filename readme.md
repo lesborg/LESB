@@ -11,6 +11,7 @@ find their way onto a certain bookshelf.
 
 - **A**: General Works
   - **AE**: Encyclopedias
+  - **AC**: Cookbooks
   - **AG**: Dictionaries and other General Reference Works
   - **AP**: Periodicals, Newspapers, and Magazines
 - **H**: Sociological, Political, and Historical works
@@ -24,6 +25,7 @@ find their way onto a certain bookshelf.
   - **HS**: History of South American Groups and Nations
   - **HX**: Communism, Socialism, and Anarchism
   - **HZ**: History of Extraterrestrial Groups and Nations
+- **M**: Music
 - **W**: Witchcraft, Computer Science, and Other Supernatural Topics
   - **WC**: Applied Computational Witchcraft and Daemonology
   - **WG**: Grimoires and Spellbooks

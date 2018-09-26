@@ -21,6 +21,6 @@ yet-unclassified books find their way onto a certain bookshelf.
   - **HX**: Communism, Socialism, and Anarchism
   - **HZ**: History of Extraterrestrial Groups and Nations
 - **W**: Witchcraft, Computer Science, and Other Supernatural Topics
-  - **WC**: Applied Computational Witchcraft
+  - **WC**: Applied Computational Witchcraft and Daemonology
   - **WG**: Grimoires and Spellbooks
   - **WX**: Forbidden Knowledge

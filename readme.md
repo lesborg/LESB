@@ -1,10 +1,13 @@
-# LESB
-The LESB (Library of Congress Classification (LCC) Enhancement for the Sortation of Books) is 
-a classification system based on, as the name would imply, the LCC. It is extraneous,
-devoid of practical use, and completely ideologically slanted by queer feminist communism; 
-factors we found were notably absent in the LCC and thus aimed to include in our enhancement
-of that system. The LESB is a work in progress, whose additions are mostly based on what 
-yet-unclassified books find their way onto a certain bookshelf.
+# The LESB
+The LESB (LCC Enhancement for the Sortation of Books) is 
+a classification system based on, as the name would imply, the Library of Congress 
+Classification system (LCC). It is extraneous, devoid of practical use, and completely 
+ideologically slanted by queer feminist communism; factors we found were notably absent 
+in the LCC and thus we aimed to include in our enhancement of that system. The LESB is 
+a work in progress, whose additions are mostly based on what yet-unclassified books 
+find their way onto a certain bookshelf.
+
+# List of Classes
 
 - **A**: General Works
   - **AE**: Encyclopedias

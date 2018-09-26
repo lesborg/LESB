@@ -25,7 +25,7 @@ find their way onto a certain bookshelf.
   - **HX**: Communist, Socialist, and Anarchist Theory
   - **HZ**: History of Space
 - **K**: Law
-  - **KG**: Role Playing Game Rulebooks
+  - **KG**: Role-Playing Game Rulebooks
 - **L**: Artistic Literature
   - **LB**: Biography and Autobiography
   - **LF**: Fantasy

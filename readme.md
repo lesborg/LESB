@@ -14,6 +14,7 @@ find their way onto a certain bookshelf.
   - **AE**: Encyclopedias
   - **AG**: Dictionaries and other General Reference Works
   - **AP**: Periodicals, Newspapers, and Magazines
+  - **AZ**: Zines and DIY Publications
 - **H**: Sociology, Politics, and History
   - **HA**: History of Africa
   - **HC**: History of the Americas

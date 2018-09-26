@@ -36,6 +36,7 @@ find their way onto a certain bookshelf.
   - **LR**: Romance
   - **LS**: Science Fiction
   - **LX**: Smut
+  - **L📖**: Graphic Novels
 - **P**: Language
   - **PG**: Grammar
   - **PL**: Linguistics

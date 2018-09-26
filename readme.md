@@ -19,16 +19,7 @@ find their way onto a certain bookshelf.
   - **HB**: Biographical and Autobiographical works
   - **HC**: Capitalism, Colonialism, Fascism, and Imperialism
   - **HE**: Eurasian History
-  - **HN**: Subclass QB – Astronomy
-Subclass QC – Physics
-Subclass QD – Chemistry
-Subclass QE – Geology
-Subclass QH – Natural history – Biology
-Subclass QK – Botany
-Subclass QL – Zoology
-Subclass QM – Human anatomy
-Subclass QP – Physiology
-Subclass QR – MicrobiologyNorth American History
+  - **HN**: North American History
   - **HO**: Oceanic, Carribean, and Other Island History
   - **HS**: South American History
   - **HX**: Communism, Socialism, and Anarchism

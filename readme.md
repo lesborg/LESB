@@ -33,7 +33,7 @@ find their way onto a certain bookshelf.
   - **LP**: Poetry
   - **LR**: Romance
   - **LS**: Science Fiction
-  - **LO**: Horror and Stories Featuring Cishets
+  - **LO**: Horror and Cisheterosexuality
   - **LX**: Smut
 - **P**: Language
   - **PG**: Grammar

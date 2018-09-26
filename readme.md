@@ -10,8 +10,8 @@ find their way onto a certain bookshelf.
 # List of Classes
 
 - **A**: General Works
-  - **AE**: Encyclopedias
   - **AC**: Cookbooks
+  - **AE**: Encyclopedias
   - **AG**: Dictionaries and other General Reference Works
   - **AP**: Periodicals, Newspapers, and Magazines
 - **H**: Sociology, Politics, and History

@@ -56,9 +56,10 @@ find their way onto a certain bookshelf.
   - **ML**: Books About Music
   - **MT**: Recorded Music on Tape
   - **MV**: Recorded Music on Vinyl
-- **W**: Witchcraft, Mathematical/Computer Science, and Other Supernatural Topics
+- **W**: Witchcraft, Math/Computer Science, and Other Supernatural Topics
   - **WA**: Applied Computational Witchcraft and Daemonology
   - **WC**: Computers and Programming
+  - **WE**: Electronics
   - **WG**: Grimoires and Spellbooks
   - **WM**: Mathematics
   - **WX**: Forbidden Knowledge

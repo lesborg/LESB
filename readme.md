@@ -59,5 +59,5 @@ find their way onto a certain bookshelf.
   - **WA**: Applied Computational Witchcraft and Daemonology
   - **WC**: Computers and Programming
   - **WG**: Grimoires and Spellbooks
-  - **WM**: Mathematical Texts
+  - **WM**: Mathematics
   - **WX**: Forbidden Knowledge

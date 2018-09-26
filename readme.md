@@ -58,6 +58,6 @@ find their way onto a certain bookshelf.
 - **W**: Witchcraft, Mathematical/Computer Science, and Other Supernatural Topics
   - **WA**: Applied Computational Witchcraft and Daemonology
   - **WC**: Computer Science and Programming Texts
-  - **WM**: Mathematical Texts
   - **WG**: Grimoires and Spellbooks
+  - **WM**: Mathematical Texts
   - **WX**: Forbidden Knowledge

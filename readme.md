@@ -13,8 +13,9 @@ find their way onto a certain bookshelf.
   - **AE**: Encyclopedias
   - **AG**: Dictionaries and other General Reference Works
   - **AP**: Periodicals, Newspapers, and Magazines
-- **H**: Sociological, Political, and Historical works.
+- **H**: Sociological, Political, and Historical works
   - **HA**: History of African Groups and Nations
+  - **HB**: Biographical and Autobiographical works
   - **HC**: Capitalism, Colonialism, and Imperialism
   - **HE**: History of Eurasian Groups and Nations
   - **HN**: History of North American Groups and Nations

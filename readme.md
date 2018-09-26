@@ -56,6 +56,8 @@ find their way onto a certain bookshelf.
   - **MT**: Recorded Music on Tape
   - **MV**: Recorded Music on Vinyl
 - **W**: Witchcraft, Mathematical/Computer Science, and Other Supernatural Topics
-  - **WC**: Applied Computational Witchcraft and Daemonology
+  - **WA**: Applied Computational Witchcraft and Daemonology
+  - **WC**: Computer Science and Programming Texts
+  - **WM**: Mathematical Texts
   - **WG**: Grimoires and Spellbooks
   - **WX**: Forbidden Knowledge

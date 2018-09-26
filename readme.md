@@ -20,7 +20,7 @@ find their way onto a certain bookshelf.
   - **HC**: Capitalism, Colonialism, Fascism, and Imperialism
   - **HE**: Eurasian History
   - **HN**: North American History
-  - **HO**: Oceanic, Carribean, and Other Island History
+  - **HO**: Oceanic and Other Island History
   - **HS**: South American History
   - **HX**: Communism, Socialism, and Anarchism
   - **HZ**: History of Extraterrestrial Groups and Nations

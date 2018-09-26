@@ -22,7 +22,9 @@ find their way onto a certain bookshelf.
   - **HJ**: Struggles Against Oppression
   - **HL**: History of Marginalized People
   - **HX**: Communist, Socialist, and Anarchist Theory
-  - **HZ**: History of Extraterrestrial Groups and Nations
+  - **HZ**: History of Space
+- **K**: Law
+  - **KG**: Role Playing Game Rulebooks
 - **L**: Artistic Literature
   - **LB**: Biography and Autobiography
   - **LF**: Fantasy

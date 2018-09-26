@@ -31,6 +31,7 @@ find their way onto a certain bookshelf.
   - **LP**: Poetry
   - **LR**: Romance
   - **LS**: Science Fiction
+  - **LX**: Smut
 - **P**: Language
   - **PG**: Grammar
 - **Q**: Physical Sciences

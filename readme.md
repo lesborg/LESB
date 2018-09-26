@@ -11,8 +11,9 @@ find their way onto a certain bookshelf.
 
 - **A**: General Works
   - **AC**: Cookbooks
+  - **AD**: Dictionaries
   - **AE**: Encyclopedias
-  - **AG**: Dictionaries and other General Reference Works
+  - **AG**: General Reference Works
   - **AP**: Periodicals, Newspapers, and Magazines
   - **AZ**: Zines and DIY Publications
 - **H**: Sociology, Politics, and History

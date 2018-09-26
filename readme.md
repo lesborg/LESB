@@ -25,8 +25,8 @@ find their way onto a certain bookshelf.
   - **HX**: Communism, Socialism, and Anarchism
   - **HZ**: History of Extraterrestrial Groups and Nations
 - **L**: Artistic Literature
-  - **LA**: General Fiction
   - **LF**: Fantasy
+  - **LG**: General Literature
   - **LH**: Historical Fiction
   - **LP**: Poetry
   - **LR**: Romance

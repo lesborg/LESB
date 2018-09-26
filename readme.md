@@ -37,7 +37,7 @@ concious and put the books under that code.
   - **ML**: Books About Music
   - **MT**: Recorded Music on Tape
   - **MV**: Recorded Music on Vinyl
-- **W**: Witchcraft, Computer Science, and Other Supernatural Topics
+- **W**: Witchcraft, Mathematical/Computer Science, and Other Supernatural Topics
   - **WC**: Applied Computational Witchcraft and Daemonology
   - **WG**: Grimoires and Spellbooks
   - **WX**: Forbidden Knowledge

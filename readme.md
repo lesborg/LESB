@@ -30,10 +30,10 @@ find their way onto a certain bookshelf.
   - **LF**: Fantasy
   - **LG**: General Fiction
   - **LH**: Historical Fiction
+  - **LO**: Horror
   - **LP**: Poetry
   - **LR**: Romance
   - **LS**: Science Fiction
-  - **LO**: Horror
   - **LX**: Smut
 - **P**: Language
   - **PG**: Grammar

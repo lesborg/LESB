@@ -14,19 +14,19 @@ find their way onto a certain bookshelf.
   - **AC**: Cookbooks
   - **AG**: Dictionaries and other General Reference Works
   - **AP**: Periodicals, Newspapers, and Magazines
-- **H**: Sociological, Political, and Historical works
-  - **HA**: African History
-  - **HB**: Biographical and Autobiographical works
-  - **HC**: Capitalism, Colonialism, Fascism, and Imperialism
-  - **HE**: Eurasian History
-  - **HN**: North American History
-  - **HO**: Oceanic and Other Island History
-  - **HS**: South American History
-  - **HX**: Communism, Socialism, and Anarchism
+- **H**: Sociology, Politics, and History
+  - **HA**: History of Africa
+  - **HC**: History of the Americas
+  - **HE**: History of Eurasia
+  - **HI**: History of Islands and Oceania
+  - **HJ**: Struggles Against Oppression
+  - **HL**: History of Marginalized People
+  - **HX**: Communist, Socialist, and Anarchist Theory
   - **HZ**: History of Extraterrestrial Groups and Nations
 - **L**: Artistic Literature
+  - **LB**: Biography and Autobiography
   - **LF**: Fantasy
-  - **LG**: General Literature
+  - **LG**: General Fiction
   - **LH**: Historical Fiction
   - **LP**: Poetry
   - **LR**: Romance
@@ -34,18 +34,18 @@ find their way onto a certain bookshelf.
   - **LX**: Smut
 - **P**: Language
   - **PG**: Grammar
+  - **PL**: Linguistics
 - **Q**: Physical Sciences
   - **QA**: Astronomy
-  - **QB**: Asstronomy
-  - **QC**: Physics
-  - **QD**: Chemistry
-  - **QE**: Geology
-  - **QH**: Natural history – Biology
-  - **QK**: Botany
-  - **QL**: Zoology
-  - **QM**: Human anatomy
-  - **QP**: Physiology
-  - **QR**: Microbiology
+  - **QB**: Botany
+  - **QC**: Chemistry
+  - **QD**: Physiology
+  - **QG**: Geology
+  - **QH**: Biology and Natural History
+  - **QM**: Microbiology
+  - **QN**: Human anatomy
+  - **QP**: Physics
+  - **QZ**: Zoology
 - **M**: Music and Books About Music
   - **MC**: Recorded Music on CD
   - **ML**: Books About Music

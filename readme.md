@@ -21,7 +21,7 @@ find their way onto a certain bookshelf.
   - **HE**: History of Eurasia
   - **HI**: History of Islands and Oceania
   - **HJ**: Struggles Against Oppression
-  - **HP**: History of Marginalized and Oppressed People
+  - **HP**: History of Oppressed People
   - **HX**: Communist, Socialist, and Anarchist Theory
   - **HZ**: History of Space
 - **K**: Law

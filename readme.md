@@ -19,18 +19,19 @@ find their way onto a certain bookshelf.
   - **HA**: History of Africa
   - **HC**: History of the Americas
   - **HE**: History of Eurasia
+  - **HG**: History of General Topics
   - **HI**: History of Islands and Oceania
-  - **HJ**: Struggles Against Oppression
-  - **HP**: History of Oppressed People
+  - **HJ**: Movements Against Oppression
+  - **HP**: People's History
   - **HX**: Communist, Socialist, and Anarchist Theory
-  - **HZ**: History of Space
 - **K**: Law
   - **KG**: Role-Playing Game Rulebooks
-- **L**: Artistic Literature
-  - **LB**: Biography and Autobiography
+- **L**: Literature
+  - **LB**: (Auto)biography
   - **LF**: Fantasy
-  - **LG**: General Fiction
+  - **LG**: Fiction
   - **LH**: Historical Fiction
+  - **LN**: Nonfiction
   - **LO**: Horror
   - **LP**: Poetry
   - **LR**: Romance

@@ -11,7 +11,6 @@ find their way onto a certain bookshelf.
 
 - **A**: General Works
   - **AC**: Cookbooks
-  - **AE**: Encyclopedias
   - **AP**: Periodicals, Newspapers, and Magazines
 - **H**: Socio-Political Science and History
   - **HB**: (Auto)biography

@@ -40,9 +40,6 @@ find their way onto a certain bookshelf.
 - **Q**: Physical Sciences
   - **QA**: Astronomy
   - **QB**: Botany
-  - **QC**: Chemistry
-  - **QG**: Geology
-  - **QH**: Biology and Natural History
   - **QP**: Physics
   - **QZ**: Zoology
 - **M**: Music and Books About Music

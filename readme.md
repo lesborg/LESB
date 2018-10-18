@@ -11,9 +11,7 @@ find their way onto a certain bookshelf.
 
 - **A**: General Works
   - **AC**: Cookbooks
-  - **AD**: Dictionaries
   - **AE**: Encyclopedias
-  - **AG**: General Reference Works
   - **AP**: Periodicals, Newspapers, and Magazines
 - **H**: Socio-Political Science and History
   - **HB**: (Auto)biography
@@ -36,6 +34,7 @@ find their way onto a certain bookshelf.
   - **NI**: Information Design Theory
   - **NJ**: Information Design Reference
 - **P**: Language
+  - **PD**: Dictionaries
   - **PG**: Grammar
 - **Q**: Physical Sciences
   - **QA**: Astronomy

@@ -16,26 +16,20 @@ find their way onto a certain bookshelf.
   - **AG**: General Reference Works
   - **AP**: Periodicals, Newspapers, and Magazines
 - **H**: Socio-Political Science and History
-  - **HA**: History of Africa
-  - **HC**: History of the Americas
-  - **HE**: History of Eurasia
+  - **HB**: (Auto)biography
   - **HG**: History of General Topics
-  - **HI**: History of Islands and Oceania
-  - **HJ**: Movements Against Oppression
   - **HP**: People's History
   - **HX**: Communist, Socialist, and Anarchist Theory
 - **K**: Law
   - **KG**: Role-Playing Game Rulebooks
 - **L**: Literature
-  - **LB**: (Auto)biography
-  - **LF**: Fantasy
   - **LG**: Fiction
   - **LH**: Historical Fiction
   - **LN**: Nonfiction
   - **LO**: Horror
   - **LP**: Poetry
   - **LR**: Romance
-  - **LS**: Science Fiction
+  - **LS**: Speculative Fiction
   - **LX**: Smut
   - **L📖**: Graphic Novels
 - **P**: Language
@@ -57,7 +51,7 @@ find their way onto a certain bookshelf.
   - **ML**: Books About Music
   - **MT**: Recorded Music on Tape
   - **MV**: Recorded Music on Vinyl
-- **W**: Witchcraft, Math/Computer Science, and Other Supernatural Topics
+- **W**: Witchcraft
   - **WA**: Applied Computational Witchcraft and Daemonology
   - **WC**: Computers and Programming
   - **WE**: Electronics

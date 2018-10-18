@@ -37,7 +37,6 @@ find their way onto a certain bookshelf.
   - **NJ**: Information Design Reference
 - **P**: Language
   - **PG**: Grammar
-  - **PL**: Linguistics
 - **Q**: Physical Sciences
   - **QA**: Astronomy
   - **QB**: Botany

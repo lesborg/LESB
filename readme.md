@@ -23,7 +23,7 @@ find their way onto a certain bookshelf.
 - **K**: Law
   - **KG**: Role-Playing Game Rulebooks
 - **L**: Literature
-  - **LG**: Fiction
+  - **LF**: Fiction
   - **LH**: Historical Fiction
   - **LN**: Nonfiction
   - **LO**: Horror
@@ -32,6 +32,9 @@ find their way onto a certain bookshelf.
   - **LS**: Speculative Fiction
   - **LX**: Smut
   - **L📖**: Graphic Novels
+- **N**: Visual Art
+  - **NI**: Information Design Theory
+  - **NJ**: Information Design Reference
 - **P**: Language
   - **PG**: Grammar
   - **PL**: Linguistics
@@ -44,8 +47,8 @@ find their way onto a certain bookshelf.
   - **QP**: Physics
   - **QZ**: Zoology
 - **M**: Music and Books About Music
+  - **MA**: Books About Music and Theory
   - **MC**: Recorded Music on CD
-  - **ML**: Books About Music
   - **MT**: Recorded Music on Tape
   - **MV**: Recorded Music on Vinyl
 - **W**: Witchcraft

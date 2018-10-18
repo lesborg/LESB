@@ -48,7 +48,7 @@ find their way onto a certain bookshelf.
   - **MT**: Recorded Music on Tape
   - **MV**: Recorded Music on Vinyl
 - **W**: Witchcraft
-  - **WA**: Applied Computational Witchcraft and Daemonology
+  - **WA**: Applied Witchcraft and Daemonology
   - **WC**: Computers and Programming
   - **WE**: Electronics
   - **WG**: Grimoires and Spellbooks

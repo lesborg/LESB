@@ -40,7 +40,7 @@ find their way onto a certain bookshelf.
   - **QB**: Botany
   - **QP**: Physics
   - **QZ**: Zoology
-- **M**: Music and Books About Music
+- **M**: Music
   - **MA**: Books About Music and Theory
   - **MC**: Recorded Music on CD
   - **MT**: Recorded Music on Tape

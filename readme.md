@@ -14,8 +14,8 @@ find their way onto a certain bookshelf.
   - **AP**: Periodicals, Newspapers, and Magazines
 - **H**: Socio-Political Science and History
   - **HB**: (Auto)biography
-  - **HG**: History of General Topics
-  - **HP**: People's History
+  - **HG**: General Topics, History and Analysis
+  - **HP**: People's History and Analysis
   - **HX**: Communist, Socialist, and Anarchist Theory
 - **K**: Law
   - **KG**: Role-Playing Game Rulebooks

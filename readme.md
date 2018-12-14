@@ -13,7 +13,7 @@ find their way onto a certain bookshelf.
   - **AC**: Cookbooks
   - **AP**: Periodicals, Newspapers, and Magazines
 - **H**: Socio-Political Science and History
-  - **HA**: Anti-Racism, Black Power, Racial Justice Theory
+  - **HA**: Anti-Racism Theory
   - **HB**: (Auto)biography
   - **HF**: Feminist Theory
   - **HG**: General History and Analysis

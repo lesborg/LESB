@@ -15,7 +15,7 @@ find their way onto a certain bookshelf.
 - **H**: Socio-Political Science and History
   - **HB**: (Auto)biography
   - **HF**: Feminist Theory
-  - **HG**: General Topics, History and Analysis
+  - **HG**: General History and Analysis
   - **HP**: People's History and Analysis
   - **HX**: Communist, Socialist, and Anarchist Theory
 - **K**: Law

@@ -1,4 +1,4 @@
-# What is LESBIANS?
+# But what *is* LESBIANS?
 
 There are a number of similar and confusing terms involving LESB. Here is as good of a summary as you'll get:
 

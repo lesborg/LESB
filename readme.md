@@ -13,12 +13,10 @@ find their way onto a certain bookshelf.
   - **AC**: Cookbooks
   - **AP**: Periodicals, Newspapers, and Magazines
 - **H**: Socio-Political Science and History
-  - **HA**: Anti-Racist Theory
   - **HB**: (Auto)biography
-  - **HF**: Feminist Theory
   - **HG**: General History and Analysis
   - **HP**: People's History and Analysis
-  - **HX**: Communist, Socialist, and Anarchist Theory
+  - **HX**: People's Theory
 - **K**: Law
   - **KG**: Role-Playing Game Rulebooks
 - **L**: Literature

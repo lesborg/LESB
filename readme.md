@@ -28,10 +28,10 @@ find their way onto a certain bookshelf.
   - **LR**: Romance
   - **LS**: Speculative Fiction
   - **LX**: Smut
-  - **L📖**: Graphic Novels
 - **N**: Visual Art
   - **NI**: Information Design Theory
   - **NJ**: Information Design Reference
+  - **N📖**: Books of art.
 - **P**: Language
   - **PD**: Dictionaries
   - **PG**: Grammar

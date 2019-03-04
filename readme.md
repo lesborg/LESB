@@ -16,6 +16,7 @@ find their way onto a certain bookshelf.
   - **HG**: General History and Analysis
   - **HX**: People's Theory, History, Analysis
 - **K**: Law
+  - **KA**: Theory, Analysis of Games
   - **KG**: Role-Playing Game Rulebooks
 - **L**: Literature, Screenplays, and Teleplays
   - **LF**: Fiction
@@ -32,7 +33,7 @@ find their way onto a certain bookshelf.
   - **N📖**: Books of art.
 - **P**: Language
   - **PD**: Dictionaries
-  - **PG**: Grammar
+  - **PG**: Grammar and Style
 - **Q**: Physical Sciences
   - **QA**: Astronomy
   - **QB**: Botany

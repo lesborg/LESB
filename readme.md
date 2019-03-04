@@ -30,7 +30,7 @@ find their way onto a certain bookshelf.
 - **M**: Music
   - **MA**: Books About Music and Theory
   - **MM**: Recorded Music
-- **N**: Visual Art
+- **N**: (Audio)-Visual Art
   - **NI**: Information Design Theory
   - **NJ**: Information Design Reference
   - **N📖**: Books of art.

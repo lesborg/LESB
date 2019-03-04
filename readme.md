@@ -22,6 +22,7 @@ find their way onto a certain bookshelf.
 - **L**: Literature
   - **LF**: Fiction
   - **LH**: Historical Fiction
+  - **LL**: General Literature, Collections, Anthologies
   - **LN**: Nonfiction
   - **LO**: Horror
   - **LP**: Poetry

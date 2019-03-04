@@ -27,6 +27,9 @@ find their way onto a certain bookshelf.
   - **LR**: Romance
   - **LS**: Speculative Fiction
   - **LX**: Smut
+- **M**: Music
+  - **MA**: Books About Music and Theory
+  - **MM**: Recorded Music
 - **N**: Visual Art
   - **NI**: Information Design Theory
   - **NJ**: Information Design Reference
@@ -39,9 +42,6 @@ find their way onto a certain bookshelf.
   - **QB**: Botany
   - **QP**: Physics
   - **QZ**: Zoology
-- **M**: Music
-  - **MA**: Books About Music and Theory
-  - **MM**: Recorded Music
 - **W**: Witchcraft, Maths, Computers
   - **WA**: Applied Witchcraft and Daemonology
   - **WE**: Electronics

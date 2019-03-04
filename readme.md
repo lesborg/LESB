@@ -48,6 +48,7 @@ find their way onto a certain bookshelf.
   - **QZ**: Zoology
 - **R**: Relationships, Sex
   - **RE**: Sex Education
+  - **RF**: Professional Relationships
   - **RK**: Kink, BDSM
   - **RP**: Polyamory
 - **W**: Witchcraft, Maths, Computers

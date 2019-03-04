@@ -13,6 +13,7 @@ find their way onto a certain bookshelf.
   - **AC**: Cookbooks
   - **AP**: Periodicals, Newspapers, and Magazines
 - **H**: Socio-Political Science and History
+  - **HB**: Biographies, Autobiographies, Interviews
   - **HG**: General History and Analysis
   - **HX**: People's Theory, History, Analysis
 - **K**: Law

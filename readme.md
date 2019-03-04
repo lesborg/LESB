@@ -15,6 +15,7 @@ find their way onto a certain bookshelf.
   - **HB**: Biographies, Autobiographies, Interviews
   - **HG**: General History and Analysis
   - **HM**: Media Analysis and Theory
+  - **HR**: Religion, Sacred texts
   - **HX**: People's Theory, History, Analysis
 - **K**: Law
   - **KA**: Theory, Analysis of Games

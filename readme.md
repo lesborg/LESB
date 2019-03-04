@@ -49,7 +49,6 @@ find their way onto a certain bookshelf.
 - **W**: Witchcraft, Maths, Computers
   - **WA**: Applied Witchcraft and Daemonology
   - **WE**: Electronics
-  - **WG**: Grimoires, Magical Reference
   - **WM**: Mathematics
   - **WP**: Programming
   - **WS**: Computer Systems

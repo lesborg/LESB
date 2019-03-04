@@ -11,7 +11,6 @@ find their way onto a certain bookshelf.
 
 - **A**: General Works
   - **AC**: Cookbooks
-  - **AP**: Periodicals, Newspapers, and Magazines
 - **H**: Socio-Political Science and History
   - **HB**: Biographies, Autobiographies, Interviews
   - **HG**: General History and Analysis
@@ -41,9 +40,7 @@ find their way onto a certain bookshelf.
   - **QZ**: Zoology
 - **M**: Music
   - **MA**: Books About Music and Theory
-  - **MC**: Recorded Music on CD
-  - **MT**: Recorded Music on Tape
-  - **MV**: Recorded Music on Vinyl
+  - **MM**: Recorded Music
 - **W**: Witchcraft, Maths, Computers
   - **WA**: Applied Witchcraft and Daemonology
   - **WE**: Electronics

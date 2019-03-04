@@ -26,7 +26,6 @@ find their way onto a certain bookshelf.
   - **LL**: General Literature, Collections, Anthologies
   - **LN**: Nonfiction
   - **LP**: Poetry
-  - **LR**: Romance
   - **LS**: Speculative Fiction
   - **LX**: Smut
 - **N**: Audio/Visual Art

@@ -53,5 +53,5 @@ find their way onto a certain bookshelf.
   - **WM**: Mathematics
   - **WP**: Programming
   - **WS**: Computer Systems
-  - **WW**: General Witchcraft
+  - **WW**: Witchcraft, Grimoires, Magical Reference
   - **WX**: Forbidden Knowledge

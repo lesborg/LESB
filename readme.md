@@ -54,7 +54,7 @@ find their way onto a certain bookshelf.
   - **WA**: Applied Witchcraft and Daemonology
   - **WE**: Electronics
   - **WM**: Mathematics
-  - **WP**: Programming
+  - **WP**: Programming, General Computing
   - **WS**: Computer Systems
   - **WW**: Witchcraft, Grimoires, Magical Reference
   - **WX**: Forbidden Knowledge

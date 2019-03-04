@@ -60,3 +60,5 @@ find their way onto a certain bookshelf.
   - **WS**: Computer Systems
   - **WW**: Witchcraft, Grimoires, Magical Reference
   - **WX**: Forbidden Knowledge
+- **X**: Miscellaneous
+  - **XQ**: Quine has no self control and hoards random printed material

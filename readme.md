@@ -46,6 +46,8 @@ find their way onto a certain bookshelf.
   - **QP**: Physics
   - **QS**: Physical Sciences (General)
   - **QZ**: Zoology
+- **R**: Relationships, Sex
+  - **RP**: Polyamory
 - **W**: Witchcraft, Maths, Computers
   - **WA**: Applied Witchcraft and Daemonology
   - **WE**: Electronics

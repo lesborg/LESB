@@ -14,6 +14,7 @@ find their way onto a certain bookshelf.
 - **H**: Socio-Political Science and History
   - **HB**: Biographies, Autobiographies, Interviews
   - **HG**: General History and Analysis
+  - **HM**: Media Analysis and Theory
   - **HX**: People's Theory, History, Analysis
 - **K**: Law
   - **KA**: Theory, Analysis of Games

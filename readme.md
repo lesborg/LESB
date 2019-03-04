@@ -18,7 +18,7 @@ find their way onto a certain bookshelf.
   - **HX**: People's Theory, History, Analysis
 - **K**: Law
   - **KG**: Role-Playing Game Rulebooks
-- **L**: Literature
+- **L**: Literature, Screenplays, and Teleplays
   - **LF**: Fiction
   - **LH**: Historical Fiction
   - **LN**: Nonfiction

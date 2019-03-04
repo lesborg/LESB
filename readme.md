@@ -57,7 +57,7 @@ find their way onto a certain bookshelf.
   - **WE**: Electronics
   - **WM**: Mathematics
   - **WP**: Programming, General Computing
-  - **WS**: Computer Systems
+  - **WS**: Computer Systems, Security
   - **WW**: Witchcraft, Grimoires, Magical Reference
   - **WX**: Forbidden Knowledge
 - **X**: Miscellaneous

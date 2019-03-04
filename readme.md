@@ -36,6 +36,7 @@ find their way onto a certain bookshelf.
   - **NJ**: Information Design Reference
   - **NM**: Books About Music
   - **NR**: Recorded Music
+  - **NV**: Books about Visual Art
   - **N📖**: Books of art
 - **P**: Language
   - **PD**: Dictionaries

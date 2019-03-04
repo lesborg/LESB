@@ -44,11 +44,12 @@ find their way onto a certain bookshelf.
   - **MC**: Recorded Music on CD
   - **MT**: Recorded Music on Tape
   - **MV**: Recorded Music on Vinyl
-- **W**: Witchcraft
+- **W**: Witchcraft, Maths, Computers
   - **WA**: Applied Witchcraft and Daemonology
-  - **WC**: Computers and Programming
   - **WE**: Electronics
   - **WG**: Grimoires, Magical Reference
   - **WM**: Mathematics
+  - **WP**: Programming
+  - **WS**: Computer Systems
   - **WW**: General Witchcraft
   - **WX**: Forbidden Knowledge

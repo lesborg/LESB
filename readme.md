@@ -18,7 +18,7 @@ find their way onto a certain bookshelf.
 - **K**: Law
   - **KA**: Theory, Analysis of Games
   - **KG**: Role-Playing Game Rulebooks
-- **L**: Literature, Screenplays, and Teleplays
+- **L**: Literature
   - **LF**: Fiction
   - **LH**: Historical Fiction
   - **LN**: Nonfiction
@@ -27,13 +27,14 @@ find their way onto a certain bookshelf.
   - **LR**: Romance
   - **LS**: Speculative Fiction
   - **LX**: Smut
-- **M**: Music
-  - **MA**: Books About Music and Theory
-  - **MM**: Recorded Music
-- **N**: (Audio)-Visual Art
+- **N**: Audio/Visual Art
+  - **NF**: Film
+  - **NG**: Video Games
   - **NI**: Information Design Theory
   - **NJ**: Information Design Reference
-  - **N📖**: Books of art.
+  - **NM**: Books About Music
+  - **NR**: Recorded Music
+  - **N📖**: Books of art
 - **P**: Language
   - **PD**: Dictionaries
   - **PG**: Grammar and Style
@@ -41,6 +42,7 @@ find their way onto a certain bookshelf.
   - **QA**: Astronomy
   - **QB**: Botany
   - **QP**: Physics
+  - **QS**: Physical Sciences (General)
   - **QZ**: Zoology
 - **W**: Witchcraft, Maths, Computers
   - **WA**: Applied Witchcraft and Daemonology

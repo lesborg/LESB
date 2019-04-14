@@ -11,6 +11,7 @@ find their way onto a certain bookshelf.
 
 - **A**: General Works
   - **AC**: Cookbooks
+  - **AF**: Firearms, weapons, fighting, tactics
 - **H**: Socio-Political Science and History
   - **HB**: Biographies, Autobiographies, Interviews
   - **HG**: General History and Analysis

@@ -11,15 +11,15 @@ find their way onto a certain bookshelf.
 
 - **A**: General Works
   - **AC**: Cookbooks
-  - **AF**: Firearms, weapons, fighting, tactics
+  - **AF**: Firearms, Weapons, Fighting, Tactics
 - **H**: Socio-Political Science and History
   - **HB**: Biographies, Autobiographies, Interviews
   - **HG**: General History and Analysis
   - **HM**: Media Analysis and Theory
-  - **HR**: Religion, Religious texts
+  - **HR**: Religion and Religious Texts
   - **HX**: People's Theory, History, Analysis
 - **K**: Law
-  - **KA**: Theory, Analysis of Games
+  - **KA**: Theory and Analysis of Games
   - **KG**: Role-Playing Game Rulebooks
 - **L**: Literature
   - **LF**: Fiction
@@ -50,14 +50,14 @@ find their way onto a certain bookshelf.
 - **R**: Relationships, Sex
   - **RE**: Sex Education
   - **RF**: Professional Relationships
-  - **RK**: Kink, BDSM
+  - **RK**: Kink and BDSM
   - **RP**: Polyamory
 - **W**: Witchcraft, Maths, Computers
   - **WA**: Applied Witchcraft and Daemonology
   - **WE**: Electronics
   - **WM**: Mathematics
-  - **WP**: Programming, General Computing
-  - **WS**: Computer Systems, Security
+  - **WP**: Programming and General Computing
+  - **WS**: Computer Systems and Security
   - **WW**: Witchcraft, Grimoires, Magical Reference
   - **WX**: Forbidden Knowledge
 - **X**: Miscellaneous

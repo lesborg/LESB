@@ -45,6 +45,7 @@ find their way onto a certain bookshelf.
 - **Q**: Physical Sciences
   - **QA**: Astronomy
   - **QB**: Botany
+  - **QM**: Medicine
   - **QP**: Physics
   - **QS**: Physical Sciences (General)
   - **QZ**: Zoology

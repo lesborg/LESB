@@ -10,6 +10,7 @@ find their way onto a certain bookshelf.
 # List of Classes
 
 - **A**: General Works
+  - **AA**: General Reference
   - **AC**: Cookbooks
   - **AF**: Firearms, Weapons, Fighting, Tactics
 - **H**: Socio-Political Science and History

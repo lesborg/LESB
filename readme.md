@@ -14,7 +14,6 @@ find their way onto a certain bookshelf.
   - **AC**: Cookbooks
   - **AF**: Firearms, Weapons, Fighting, Tactics
 - **H**: Socio-Political Science and History
-  - **HB**: Biographies, Autobiographies, Interviews
   - **HG**: General History and Analysis
   - **HM**: Media Analysis and Theory
   - **HR**: Religion and Religious Texts

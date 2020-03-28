@@ -49,7 +49,7 @@ find their way onto a certain bookshelf.
   - **QP**: Physics
   - **QS**: Physical Sciences (General)
   - **QZ**: Zoology
-- **R**: Relationships, Sex
+- **R**: Relationships
   - **RE**: Sex Education
   - **RF**: Professional Relationships
   - **RK**: Kink and BDSM

@@ -15,7 +15,7 @@ find their way onto a certain bookshelf.
   - **AF**: Firearms, Weapons, Fighting, Tactics
 - **H**: Socio-Political Science and History
   - **HG**: General History and Analysis
-  - **HM**: Media Analysis and Theory
+  - **HM**: Media Theory, History, Analysis
   - **HR**: Religion and Religious Texts
   - **HX**: People's Theory, History, Analysis
 - **K**: Law
